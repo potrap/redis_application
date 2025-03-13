@@ -1,0 +1,5 @@
+# .tool-versions
+
+erlang 25.2
+elixir 1.15.7-otp-25
+nodejs 14.17.6
