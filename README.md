@@ -6,7 +6,7 @@ Welcome to Redis App! This Phoenix application integrates with Redis to add, del
 
 To see how the app works, check out this demo video:
 
-https://github.com/user-attachments/assets/6f7e5e15-143b-424f-ae40-1fdf4a7d0110
+[https://github.com/user-attachments/assets/6f7e5e15-143b-424f-ae40-1fdf4a7d0110](https://github.com/user-attachments/assets/edbb9ec4-11d2-44a1-af3d-021589bd2a2b)
 
 ## Prerequisites
 Before starting, ensure you have the following installed on your system:
